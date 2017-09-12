@@ -1,0 +1,9 @@
+D:\Programy\C#\words_in_string\words_in_string\bin\Debug\words_in_string.exe.config
+D:\Programy\C#\words_in_string\words_in_string\bin\Debug\words_in_string.exe
+D:\Programy\C#\words_in_string\words_in_string\bin\Debug\words_in_string.pdb
+D:\Programy\C#\words_in_string\words_in_string\obj\Debug\words_in_string.csprojResolveAssemblyReference.cache
+D:\Programy\C#\words_in_string\words_in_string\obj\Debug\words_in_string.Form1.resources
+D:\Programy\C#\words_in_string\words_in_string\obj\Debug\words_in_string.Properties.Resources.resources
+D:\Programy\C#\words_in_string\words_in_string\obj\Debug\words_in_string.csproj.GenerateResource.Cache
+D:\Programy\C#\words_in_string\words_in_string\obj\Debug\words_in_string.exe
+D:\Programy\C#\words_in_string\words_in_string\obj\Debug\words_in_string.pdb
